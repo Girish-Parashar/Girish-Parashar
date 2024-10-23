@@ -28,4 +28,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=girish-parashar&" alt="girish-parashar" /></p>
 
-
+![snake gif](https://github.com/Girish-Parashar/Girish-Parashar/blob/output/snake.svg)
