@@ -82,12 +82,13 @@ me = DataScientist()
   <!-- Databases -->
   <img src="https://img.shields.io/badge/MySQL-★★★★☆-orange?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1F6FEB" alt="MySQL"/>
   <img src="https://img.shields.io/badge/PostgreSQL-★★★★☆-orange?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1F6FEB" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Excel-★★★★☆-red?style=for-the-badge&logo=excel&logoColor=white&labelColor=1F6FEB" alt="Excel"/>
 </p>
 <p align="center">
   <!-- Deep Learning -->
   <img src="https://img.shields.io/badge/TensorFlow-★★★☆☆-red?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1F6FEB" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/Web%20Scraping-★★★★☆-red?style=for-the-badge&logo=web&logoColor=white&labelColor=1F6FEB" alt="Web Scraping"/>
-
+  
 </p>
 
 <!-- GitHub Stats -->
